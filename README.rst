@@ -49,6 +49,10 @@ Quick Start
 Installation is easy as::
 
     pip install pycallgraph
+    
+Or install the cutting-edge version::
+
+    pip install git+https://github.com/gak/pycallgraph.git@develop#egg=pycallgraph
 
 You can either use the `command-line interface <http://pycallgraph.slowchop.com/en/develop/guide/command_line_usage.html>`_ for a quick visualization of your Python script, or the `pycallgraph module <http://pycallgraph.slowchop.com/en/develop/api/pycallgraph.html>`_ for more fine-grained settings.
 
